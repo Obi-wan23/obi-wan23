@@ -1,13 +1,6 @@
-[![Header] (https://github.com/Obi-wan23/obi-wan23/blob/main/assets/hackers.gif)]
-
-About me
-
-My Works
-
-Languages and Tools
-
-Follow Me
-
+<div id="header" align="center">
+  <img src="https://github.com/Obi-wan23/obi-wan23/blob/main/assets/hackers.gif"/>
+</div>
 
 
 
