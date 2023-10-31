@@ -21,9 +21,9 @@
 
 <h2 style="сolor: FFFFFF"; align="center">My Works</h2>
 
-[![Nolorn]()](https://obi-wan23.github.io/Nolorn/)<br>
+[![Nolorn](https://github.com/Obi-wan23/obi-wan23/blob/main/assets/Nolorn.png)](https://obi-wan23.github.io/Nolorn/)<br>
 
-[![RoboSchool]()](https://obi-wan23.github.io/RoboSchool/)
+[![RoboSchool](https://github.com/Obi-wan23/obi-wan23/blob/main/assets/Robo.png)](https://obi-wan23.github.io/RoboSchool/)
 
 <h2 style="сolor: FFFFFF"; align="center">Achievements</h2>
 
