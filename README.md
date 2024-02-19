@@ -7,8 +7,6 @@
 <hr>
 <h2 style="сolor: FFFFFF"; align="center"> My name is Ivan Morev and I am a beginner web developer</h2>
 
-<span style="сolor: FFFFFF"> I studied web development on my own because I really liked it, in March of this year I decided to take a course at ITMO under the professional retraining program that I am currently studying in. At the end of the course, I will create a powerful SPA application in React, but for now you can see my work on layout.</span>
-
 <h2 style="сolor: FFFFFF"; align="center">Languages and Tools</h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=ffffff)
