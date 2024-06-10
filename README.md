@@ -23,6 +23,9 @@
 
 [![RoboSchool](https://github.com/Obi-wan23/obi-wan23/blob/main/assets/Robo.png)](https://obi-wan23.github.io/RoboSchool/)
 
+[![СRM](https://github.com/Obi-wan23/obi-wan23/blob/main/assets/Crm.png)](https://obi-wan23.github.io/CRM-build/)
+
+
 <h2 style="сolor: FFFFFF"; align="center">Achievements</h2>
 
 [![codewars](https://www.codewars.com/users/Obi-wan23/badges/large)](https://www.codewars.com/users/Obi-wan23)
