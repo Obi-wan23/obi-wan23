@@ -14,6 +14,7 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-BE4080?style=for-the-badge&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7E509?style=for-the-badge&logo=javascript&logoColor=000000)
 ![Gulp](https://img.shields.io/badge/-Gulp-EC5051?style=for-the-badge&logo=gulp&logoColor=ffffff)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Webpack](https://img.shields.io/badge/-Webpack-92D6FA?style=for-the-badge&logo=webpack&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-F05539?style=for-the-badge&logo=git&logoColor=ffffff)
 
